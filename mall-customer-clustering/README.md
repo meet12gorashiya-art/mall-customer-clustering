@@ -33,7 +33,7 @@ shared logger in `src/utils/logger.py`, and raise typed exceptions
 ```bash
 cd mall-customer-clustering
 python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
+.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
